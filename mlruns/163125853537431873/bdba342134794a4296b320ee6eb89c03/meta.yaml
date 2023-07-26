@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/rishu.singh/Desktop/Assign3/Assignment_3.2/mlruns/163125853537431873/bdba342134794a4296b320ee6eb89c03/artifacts
+end_time: 1690369037998
+entry_point_name: ''
+experiment_id: '163125853537431873'
+lifecycle_stage: active
+run_id: bdba342134794a4296b320ee6eb89c03
+run_name: bald-carp-72
+run_uuid: bdba342134794a4296b320ee6eb89c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690369021419
+status: 3
+tags: []
+user_id: rishu_singh

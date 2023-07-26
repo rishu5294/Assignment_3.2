@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/rishu.singh/Desktop/Assign3/Assignment_3.2/mlruns/163125853537431873/de824a1789a84d20bb2d4db8f7244536/artifacts
+end_time: 1690369021354
+entry_point_name: ''
+experiment_id: '163125853537431873'
+lifecycle_stage: active
+run_id: de824a1789a84d20bb2d4db8f7244536
+run_name: amazing-newt-109
+run_uuid: de824a1789a84d20bb2d4db8f7244536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690369005331
+status: 3
+tags: []
+user_id: rishu_singh
