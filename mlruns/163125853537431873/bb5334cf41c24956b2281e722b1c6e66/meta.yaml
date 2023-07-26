@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/rishu.singh/Desktop/Assign3/Assignment_3.2/mlruns/163125853537431873/bb5334cf41c24956b2281e722b1c6e66/artifacts
+end_time: 1690366437362
+entry_point_name: ''
+experiment_id: '163125853537431873'
+lifecycle_stage: active
+run_id: bb5334cf41c24956b2281e722b1c6e66
+run_name: entertaining-fox-929
+run_uuid: bb5334cf41c24956b2281e722b1c6e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690366422261
+status: 3
+tags: []
+user_id: rishu_singh
