@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/rishu.singh/Desktop/Assign3/Assignment_3.2/mlruns/163125853537431873/40d88bdebe75417e9b6ac26aa7e92864/artifacts
+end_time: 1690366407044
+entry_point_name: ''
+experiment_id: '163125853537431873'
+lifecycle_stage: active
+run_id: 40d88bdebe75417e9b6ac26aa7e92864
+run_name: beautiful-roo-490
+run_uuid: 40d88bdebe75417e9b6ac26aa7e92864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690366383183
+status: 3
+tags: []
+user_id: rishu_singh
